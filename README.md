@@ -1,4 +1,4 @@
-## Olá, me chamo Pablo Rossoni </> Estou em busca de me tornar um Desenvolvedor Web Front-end 👋
+## Olá, me chamo Pablo Rossoni </> Estou em busca de me tornar um Desenvolvedor Full Stack👋
 
 <div>
   <a href="https://github.com/RossoniPablo">
