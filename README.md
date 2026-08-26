@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Pablo 👋</h1>
+<h1 align="center">Olá, eu sou o Pablo Rossoni</h1>
 <h3 align="center">Full Stack Developer | Em transição para Backend Java/Spring Boot</h3>
 
 <p align="center">
@@ -12,18 +12,17 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
+###  Sobre mim
 
-- 💼 Atualmente **Analista de TI** na **Megalu Comunicação** (remoto)
-- 🎓 Graduando em **Engenharia de Software** pela Uninter (conclusão prevista em 2026)
-- 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo IFPR
-- 🌊 Desenvolvedor Full Stack voluntário no **GEM (Grupo Economia do Mar)**, grupo de pesquisa reconhecido pelo CNPq
-- 🔄 Em transição para **desenvolvimento Backend com Java e Spring Boot**, aprofundando conhecimento em arquitetura de sistemas corporativos
-- 💻 Também atuo com desenvolvimento freelance
+Desenvolvedor Full Stack, Analista de Sistemas (IFPR) e graduando em Engenharia de Software (Uninter). Experiência
+em desenvolvimento web com JavaScript/TypeScript, Node.js e WordPress, atuando em projetos remotos e
+freelancers de plataformas e-commerce a sistemas personalizados. Atualmente em transição para desenvolvimento
+backend com Java e Spring Boot, aprofundando fundamentos de arquitetura de software, testes e boas práticas para
+atuar em times de backend.
 
 ---
 
-### 🛠️ Stack principal
+### Stack principal
 
 **Front-end**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -49,12 +48,12 @@
 
 ---
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RossoniPablo&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
@@ -67,7 +66,7 @@
 
 ---
 
-### 📫 Vamos conversar?
+### Vamos conversar?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pablo-rossoni2/" target="_blank">LinkedIn</a> •
